@@ -1,0 +1,19 @@
+.body{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-size: cover;
+    text-align: right;
+   
+   
+}
+
+.mg{
+    margin-right: 50px;
+} 
+
+.text {
+  color: white;
+  text-align: right;
+}
+
